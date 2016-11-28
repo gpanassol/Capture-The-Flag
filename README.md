@@ -1,6 +1,10 @@
 # Capture-The-Flag
 Guia de Estudo para CTF
 
+## CTF - Time
+Acervo de várias competições:
+https://ctftime.org/about/
+
 ## CTF-BR.org
 
 Site com diversas dicas:
